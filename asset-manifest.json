@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/athul-portfolio/static/css/main.910f9ec1.css",
+    "main.js": "/athul-portfolio/static/js/main.8b406158.js",
+    "static/media/yuvipep.png": "/athul-portfolio/static/media/yuvipep.e10b61022408fa8727a1.png",
+    "static/media/regal.png": "/athul-portfolio/static/media/regal.a94919f69e0705f02330.png",
+    "static/media/estateApp.png": "/athul-portfolio/static/media/estateApp.96a8ee7c3fecfe0862d4.png",
+    "static/media/yuvipepstore.png": "/athul-portfolio/static/media/yuvipepstore.e757d54d765831519441.png",
+    "static/media/chatapp.png": "/athul-portfolio/static/media/chatapp.0f4e8abe23156e3b5b8b.png",
+    "static/media/contactImg.png": "/athul-portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/athul-portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/athul-portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/profile.jpg": "/athul-portfolio/static/media/profile.87ef1ba8d7fb5c1746d7.jpg",
+    "index.html": "/athul-portfolio/index.html",
+    "main.910f9ec1.css.map": "/athul-portfolio/static/css/main.910f9ec1.css.map",
+    "main.8b406158.js.map": "/athul-portfolio/static/js/main.8b406158.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910f9ec1.css",
+    "static/js/main.8b406158.js"
+  ]
+}
